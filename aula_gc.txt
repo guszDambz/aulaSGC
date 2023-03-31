@@ -1,0 +1,73 @@
+    1  sudo nano /boot/grub/grub.cfg 
+    2  reboot
+    3  sudo timedatectl set-local-rtc 1
+    4  shutdown -r now
+    5  git status
+    6  sudo apt -get install curl
+    7  sudo apt-get install curl
+    8  curl -O
+    9  curl -o
+   10  curl -0
+   11  curl -O https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
+   12  cd ~
+   13  sudo nano .bashrc
+   14  cd home]
+   15  cd home
+   16  cd /home
+   17  pwd
+   18  cd/home/ifrs
+   19  cd ifrs
+   20  pwd
+   21  git config --global --list
+   22  sudo apt install git
+   23  pwd
+   24  git config --global --list
+   25  cd home
+   26  cd /home
+   27  pwd
+   28  git config --global --list
+   29  cd
+   30  --list
+   31  -list
+   32  -mlist
+   33  cd /home/user
+   34  cd /home/ifrs
+   35  pwd
+   36  git config --global --list
+   37  pwd
+   38  sudo nano.bashrc
+   39  sudo nano .bashrc
+   40  pwd
+   41  ls
+   42  git config -global -list
+   43  git config --global --list
+   44  git config --global user.name "Gustavo
+git config --global user.name "Gustavo"
+git config --global user.name "Gustavo
+   45  git config --global user.email "guszdambros@gmail.com"
+   46  git -list
+   47  git --list
+   48  git config --list
+   49  pwd
+   50  mkdir git-repos-home
+   51  ls -al
+   52  cd git-repos-home
+   53  mkdir blank_repo
+   54  cd blank_repo
+   55  git init
+   56  git status
+   57  touch leiame.txt
+   58  git add leiame.txt
+   59  git status
+   60  git commit -m "Teste de check-in no repositório blank_repo!"
+   61  nano leiame.txt
+   62  cat leiame.txt
+   63  git status
+   64  git diff HEAD
+   65  git commit -a -m "modificações no conteúdo do arquivo."
+   66  git log --pretty=oneline
+   67  git log
+   68  git show
+   69  git show 28ce9dde0c77765108daf7757c41594ed20badfe
+   70  cd
+   71  history 150 > aula_gc.txt
